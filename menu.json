@@ -7,7 +7,7 @@
     "price": 300,
     "meal": false,
     "options": [],
-    "image": "assets/food/goong-sa-rong.png",
+    "image": "assets/food/goong-sa-rong.webp",
     "symbols": [
       "seafood"
     ],
@@ -30,7 +30,7 @@
         240
       ]
     ],
-    "image": "assets/food/satay-chicken.png",
+    "image": "assets/food/satay-chicken.webp",
     "symbols": [],
     "optionSymbols": {
       "Beef": [
@@ -44,7 +44,7 @@
     },
     "imageLabel": "Chicken",
     "optionImages": {
-      "Chicken": "assets/food/satay-chicken.png"
+      "Chicken": "assets/food/satay-chicken.webp"
     }
   },
   {
@@ -55,7 +55,7 @@
     "price": 220,
     "meal": true,
     "options": [],
-    "image": "assets/food/spring-rolls.png",
+    "image": "assets/food/spring-rolls.webp",
     "symbols": [
       "vegetarian"
     ],
@@ -69,7 +69,7 @@
     "price": 250,
     "meal": false,
     "options": [],
-    "image": "assets/food/tuna-tartar-thai-taste.png",
+    "image": "assets/food/tuna-tartar-thai-taste.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -81,7 +81,7 @@
     "price": 220,
     "meal": false,
     "options": [],
-    "image": "assets/food/gyoza.png",
+    "image": "assets/food/gyoza.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -93,7 +93,7 @@
     "price": 350,
     "meal": false,
     "options": [],
-    "image": "assets/food/yum-woon-sen-seafood.png",
+    "image": "assets/food/yum-woon-sen-seafood.webp",
     "symbols": [
       "seafood",
       "spicy"
@@ -108,7 +108,7 @@
     "price": 320,
     "meal": true,
     "options": [],
-    "image": "assets/food/thai-beef-salad.png",
+    "image": "assets/food/thai-beef-salad.webp",
     "symbols": [
       "beef",
       "spicy"
@@ -123,7 +123,7 @@
     "price": 280,
     "meal": false,
     "options": [],
-    "image": "assets/food/yum-som-o.png",
+    "image": "assets/food/yum-som-o.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -171,7 +171,7 @@
     "price": 380,
     "meal": false,
     "options": [],
-    "image": "assets/food/nuea-nam-tok.png",
+    "image": "assets/food/nuea-nam-tok.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -183,7 +183,7 @@
     "price": 220,
     "meal": true,
     "options": [],
-    "image": "assets/food/clear-soup-pork.png",
+    "image": "assets/food/clear-soup-pork.webp",
     "symbols": [
       "chicken",
       "pork"
@@ -199,7 +199,7 @@
     "price": 250,
     "meal": false,
     "options": [],
-    "image": "assets/food/gai-tom-khamin.png",
+    "image": "assets/food/gai-tom-khamin.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -211,7 +211,7 @@
     "price": 250,
     "meal": true,
     "options": [],
-    "image": "assets/food/tom-kha-gai.png",
+    "image": "assets/food/tom-kha-gai.webp",
     "symbols": [
       "chicken"
     ],
@@ -226,7 +226,7 @@
     "price": 350,
     "meal": false,
     "options": [],
-    "image": "assets/food/po-tak.png",
+    "image": "assets/food/po-tak.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -238,7 +238,7 @@
     "price": 350,
     "meal": false,
     "options": [],
-    "image": "assets/food/tom-yum-goong.png",
+    "image": "assets/food/tom-yum-goong.webp",
     "symbols": [
       "seafood",
       "spicy"
@@ -263,7 +263,7 @@
         350
       ]
     ],
-    "image": "assets/food/massaman-chicken.png",
+    "image": "assets/food/massaman-chicken.webp",
     "symbols": [],
     "optionSymbols": {
       "Beef ∞": [
@@ -273,7 +273,7 @@
     },
     "imageLabel": "Chicken",
     "optionImages": {
-      "Chicken": "assets/food/massaman-chicken.png"
+      "Chicken": "assets/food/massaman-chicken.webp"
     }
   },
   {
@@ -284,7 +284,7 @@
     "price": 350,
     "meal": false,
     "options": [],
-    "image": "assets/food/gang-phed-ped-yang.png",
+    "image": "assets/food/gang-phed-ped-yang.webp",
     "symbols": [
       "spicy"
     ],
@@ -298,7 +298,7 @@
     "price": 400,
     "meal": true,
     "options": [],
-    "image": "assets/food/chu-chee-pla-krapong.png",
+    "image": "assets/food/chu-chee-pla-krapong.webp",
     "symbols": [
       "seafood",
       "spicy"
@@ -326,7 +326,7 @@
         350
       ]
     ],
-    "image": "assets/food/panang-curry.png",
+    "image": "assets/food/panang-curry.webp",
     "symbols": [],
     "optionSymbols": {
       "Chicken": [
@@ -356,7 +356,7 @@
         350
       ]
     ],
-    "image": "assets/food/gang-kheaw-waan.png",
+    "image": "assets/food/gang-kheaw-waan.webp",
     "symbols": [
       "chicken",
       "spicy"
@@ -392,7 +392,7 @@
         250
       ]
     ],
-    "image": "assets/food/khao-pad-prawn.png",
+    "image": "assets/food/khao-pad-prawn.webp",
     "symbols": [],
     "optionSymbols": {
       "Seafood": [
@@ -418,7 +418,7 @@
     },
     "imageLabel": "Prawn",
     "optionImages": {
-      "Prawn": "assets/food/khao-pad-prawn.png"
+      "Prawn": "assets/food/khao-pad-prawn.webp"
     }
   },
   {
@@ -429,7 +429,7 @@
     "price": 350,
     "meal": false,
     "options": [],
-    "image": "assets/food/khao-ob-sapparod.png",
+    "image": "assets/food/khao-ob-sapparod.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -441,7 +441,7 @@
     "price": 250,
     "meal": false,
     "options": [],
-    "image": "assets/food/pad-see-ew.png",
+    "image": "assets/food/pad-see-ew.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -453,7 +453,7 @@
     "price": 300,
     "meal": false,
     "options": [],
-    "image": "assets/food/pad-thai-goong.png",
+    "image": "assets/food/pad-thai-goong.webp",
     "symbols": [],
     "optionSymbols": {},
     "imageLabel": ""
@@ -466,7 +466,7 @@
     "price": 350,
     "meal": false,
     "options": [],
-    "image": "assets/food/pad-kee-mao.png",
+    "image": "assets/food/pad-kee-mao.webp",
     "symbols": [
       "seafood",
       "spicy"
@@ -481,7 +481,7 @@
     "price": 650,
     "meal": false,
     "options": [],
-    "image": "assets/food/goong-ma-kham.png",
+    "image": "assets/food/goong-ma-kham.webp",
     "symbols": [
       "seafood"
     ],
@@ -495,7 +495,7 @@
     "price": 280,
     "meal": true,
     "options": [],
-    "image": "assets/food/gai-phad-med-ma-muang.png",
+    "image": "assets/food/gai-phad-med-ma-muang.webp",
     "symbols": [
       "chicken",
       "nuts",
@@ -528,7 +528,7 @@
         300
       ]
     ],
-    "image": "assets/food/pad-krapow.png",
+    "image": "assets/food/pad-krapow.webp",
     "symbols": [],
     "optionSymbols": {
       "Prawn": [
@@ -562,7 +562,7 @@
     "price": 300,
     "meal": false,
     "options": [],
-    "image": "assets/food/nuea-nam-man-hoi.png",
+    "image": "assets/food/nuea-nam-man-hoi.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -574,7 +574,7 @@
     "price": 350,
     "meal": false,
     "options": [],
-    "image": "assets/food/si-khrong-moo-krathiam.png",
+    "image": "assets/food/si-khrong-moo-krathiam.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -598,7 +598,7 @@
     "price": 280,
     "meal": false,
     "options": [],
-    "image": "assets/food/mee-sapam.png",
+    "image": "assets/food/mee-sapam.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -610,7 +610,7 @@
     "price": 350,
     "meal": false,
     "options": [],
-    "image": "assets/food/moo-hong.png",
+    "image": "assets/food/moo-hong.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -622,7 +622,7 @@
     "price": 300,
     "meal": false,
     "options": [],
-    "image": "assets/food/moo-tom-bai-cha-muang.png",
+    "image": "assets/food/moo-tom-bai-cha-muang.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -670,7 +670,7 @@
     "price": 300,
     "meal": false,
     "options": [],
-    "image": "assets/food/pad-pak-miang.png",
+    "image": "assets/food/pad-pak-miang.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -682,7 +682,7 @@
     "price": 400,
     "meal": false,
     "options": [],
-    "image": "assets/food/gaeng-som-pla-kapong.png",
+    "image": "assets/food/gaeng-som-pla-kapong.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -694,7 +694,7 @@
     "price": 350,
     "meal": false,
     "options": [],
-    "image": "assets/food/khao-soi.png",
+    "image": "assets/food/khao-soi.webp",
     "symbols": [],
     "optionSymbols": {}
   },
@@ -706,7 +706,7 @@
     "price": 200,
     "meal": true,
     "options": [],
-    "image": "assets/food/mango-sticky-rice.png",
+    "image": "assets/food/mango-sticky-rice.webp",
     "symbols": [
       "nuts",
       "sesame"
