@@ -1,0 +1,764 @@
+[
+  {
+    "id": "dish-01",
+    "category": "Appetizers",
+    "name": "Goong Sa-Rong",
+    "description": "Thai-style deep-fried shrimp wrapped in vermicelli noodles",
+    "price": 300,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/goong-sa-rong.png",
+    "symbols": [
+      "seafood"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-02",
+    "category": "Appetizers",
+    "name": "Satay",
+    "description": "Served with peanut sauce and cucumber relish",
+    "price": 220,
+    "meal": true,
+    "options": [
+      [
+        "Chicken",
+        220
+      ],
+      [
+        "Beef",
+        240
+      ]
+    ],
+    "image": "assets/food/satay-chicken.png",
+    "symbols": [],
+    "optionSymbols": {
+      "Beef": [
+        "beef",
+        "nuts"
+      ],
+      "Chicken": [
+        "chicken",
+        "nuts"
+      ]
+    },
+    "imageLabel": "Chicken",
+    "optionImages": {
+      "Chicken": "assets/food/satay-chicken.png"
+    }
+  },
+  {
+    "id": "dish-03",
+    "category": "Appetizers",
+    "name": "Deep-Fried Spring Rolls",
+    "description": "House-made spring rolls served with plum sauce",
+    "price": 220,
+    "meal": true,
+    "options": [],
+    "image": "assets/food/spring-rolls.png",
+    "symbols": [
+      "vegetarian"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-04",
+    "category": "Appetizers",
+    "name": "Tuna Tartar Thai Taste",
+    "description": "Fresh tuna tartare with Thai spicy dressing",
+    "price": 250,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/tuna-tartar-thai-taste.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-05",
+    "category": "Appetizers",
+    "name": "Gyoza",
+    "description": "Chicken dumplings with savory glaze",
+    "price": 220,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/gyoza.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-06",
+    "category": "Salads",
+    "name": "Yum Woon Sen Seafood",
+    "description": "Glass noodle salad with prawns, squid, mussels, lime, chili and coriander",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/yum-woon-sen-seafood.png",
+    "symbols": [
+      "seafood",
+      "spicy"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-07",
+    "category": "Salads",
+    "name": "Thai Beef Salad",
+    "description": "Roasted beef with chili, coriander and onion in a lime dressing",
+    "price": 320,
+    "meal": true,
+    "options": [],
+    "image": "assets/food/thai-beef-salad.png",
+    "symbols": [
+      "beef",
+      "spicy"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-08",
+    "category": "Salads",
+    "name": "Yum Som-O",
+    "description": "Thai pomelo salad with prawns",
+    "price": 280,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/yum-som-o.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-09",
+    "category": "Salads",
+    "name": "Yum Tua Phu",
+    "description": "Winged beans with prawns in a creamy Thai coconut and chili dressing",
+    "price": 280,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/yum-tua-phu.webp",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-10",
+    "category": "Salads",
+    "name": "Yam Pla Salmon",
+    "description": "Crispy salmon belly with spicy green mango salad",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-11",
+    "category": "Salads",
+    "name": "Phla Pla Tuna",
+    "description": "Spicy tuna salad with Thai herbs and lime dressing",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-12",
+    "category": "Salads",
+    "name": "Nuea Nam Tok",
+    "description": "Grilled medium-rare beef striploin with spicy herb dressing",
+    "price": 380,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/nuea-nam-tok.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-13",
+    "category": "Soups",
+    "name": "Tom Jeut Tao Hoo Moo Sap Rue Gai Sap",
+    "description": "Clear soup with egg tofu, minced pork or chicken, Chinese cabbage and spring onion",
+    "price": 220,
+    "meal": true,
+    "options": [],
+    "image": "assets/food/clear-soup-pork.png",
+    "symbols": [
+      "chicken",
+      "pork"
+    ],
+    "optionSymbols": {},
+    "imageLabel": "Pork"
+  },
+  {
+    "id": "dish-14",
+    "category": "Soups",
+    "name": "Gai Tom Khamin",
+    "description": "Southern Thai turmeric chicken soup",
+    "price": 250,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/gai-tom-khamin.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-15",
+    "category": "Soups",
+    "name": "Tom Kha Gai",
+    "description": "Galangal-coconut broth with chicken, coriander and kaffir lime leaf",
+    "price": 250,
+    "meal": true,
+    "options": [],
+    "image": "assets/food/tom-kha-gai.png",
+    "symbols": [
+      "chicken"
+    ],
+    "optionSymbols": {},
+    "imageLabel": ""
+  },
+  {
+    "id": "dish-16",
+    "category": "Soups",
+    "name": "Po Tak",
+    "description": "Spicy and tangy seafood soup with prawns, squid, NZ mussels and fresh herbs",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/po-tak.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-17",
+    "category": "Soups",
+    "name": "Tom Yum Goong",
+    "description": "Traditional Thai hot and sour prawn soup with lemongrass",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/tom-yum-goong.png",
+    "symbols": [
+      "seafood",
+      "spicy"
+    ],
+    "optionSymbols": {},
+    "imageLabel": ""
+  },
+  {
+    "id": "dish-18",
+    "category": "Asian Curry",
+    "name": "Massaman",
+    "description": "Traditional Massaman curry with your choice of meat",
+    "price": 300,
+    "meal": false,
+    "options": [
+      [
+        "Chicken",
+        300
+      ],
+      [
+        "Beef ∞",
+        350
+      ]
+    ],
+    "image": "assets/food/massaman-chicken.png",
+    "symbols": [],
+    "optionSymbols": {
+      "Beef ∞": [
+        "beef",
+        "spicy"
+      ]
+    },
+    "imageLabel": "Chicken",
+    "optionImages": {
+      "Chicken": "assets/food/massaman-chicken.png"
+    }
+  },
+  {
+    "id": "dish-19",
+    "category": "Asian Curry",
+    "name": "Gang Phed Ped Yang",
+    "description": "Red curry with roasted duck and fruits",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/gang-phed-ped-yang.png",
+    "symbols": [
+      "spicy"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-20",
+    "category": "Asian Curry",
+    "name": "Chu Chee Pla Krapong",
+    "description": "Fried seabass with yellow curry sauce",
+    "price": 400,
+    "meal": true,
+    "options": [],
+    "image": "assets/food/chu-chee-pla-krapong.png",
+    "symbols": [
+      "seafood",
+      "spicy"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-21",
+    "category": "Asian Curry",
+    "name": "Panang Curry",
+    "description": "Mildly spiced Panang curry with your choice of meat",
+    "price": 300,
+    "meal": true,
+    "options": [
+      [
+        "Chicken",
+        300
+      ],
+      [
+        "Pork",
+        300
+      ],
+      [
+        "Prawn",
+        350
+      ]
+    ],
+    "image": "assets/food/panang-curry.png",
+    "symbols": [],
+    "optionSymbols": {
+      "Chicken": [
+        "chicken",
+        "spicy"
+      ]
+    }
+  },
+  {
+    "id": "dish-22",
+    "category": "Asian Curry",
+    "name": "Gang Kheaw Waan",
+    "description": "Green curry with chili, basil leaves and coconut broth",
+    "price": 250,
+    "meal": true,
+    "options": [
+      [
+        "Yellow tofu",
+        250
+      ],
+      [
+        "Chicken",
+        300
+      ],
+      [
+        "Beef",
+        350
+      ]
+    ],
+    "image": "assets/food/gang-kheaw-waan.png",
+    "symbols": [
+      "chicken",
+      "spicy"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-23",
+    "category": "Rice & Noodles",
+    "name": "Khao Pad",
+    "description": "Wok-fried rice with your choice of meat or seafood",
+    "price": 200,
+    "meal": true,
+    "options": [
+      [
+        "Chicken",
+        200
+      ],
+      [
+        "Pork",
+        200
+      ],
+      [
+        "Beef",
+        220
+      ],
+      [
+        "Prawn",
+        250
+      ],
+      [
+        "Seafood",
+        250
+      ]
+    ],
+    "image": "assets/food/khao-pad-prawn.png",
+    "symbols": [],
+    "optionSymbols": {
+      "Seafood": [
+        "seafood",
+        "eggs"
+      ],
+      "Prawn": [
+        "seafood",
+        "eggs"
+      ],
+      "Beef": [
+        "beef",
+        "eggs"
+      ],
+      "Pork": [
+        "pork",
+        "eggs"
+      ],
+      "Chicken": [
+        "chicken",
+        "eggs"
+      ]
+    },
+    "imageLabel": "Prawn",
+    "optionImages": {
+      "Prawn": "assets/food/khao-pad-prawn.png"
+    }
+  },
+  {
+    "id": "dish-24",
+    "category": "Rice & Noodles",
+    "name": "Khao Ob Sapparod",
+    "description": "Phuket pineapple fried rice with prawns, chicken sausage, cashew nuts and raisins",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/khao-ob-sapparod.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-25",
+    "category": "Rice & Noodles",
+    "name": "Pad See Ew",
+    "description": "Flat rice noodles with seafood, egg and vegetables in a savory brown sauce",
+    "price": 250,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/pad-see-ew.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-26",
+    "category": "Rice & Noodles",
+    "name": "Pad Thai",
+    "description": "Rice noodles with sea prawns, tamarind sauce, egg, peanuts and bean sprouts",
+    "price": 300,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/pad-thai-goong.png",
+    "symbols": [],
+    "optionSymbols": {},
+    "imageLabel": ""
+  },
+  {
+    "id": "dish-27",
+    "category": "Rice & Noodles",
+    "name": "Pad Kee Mao",
+    "description": "Black squid ink pasta with seafood, chili, garlic, basil and herbs",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/pad-kee-mao.png",
+    "symbols": [
+      "seafood",
+      "spicy"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-28",
+    "category": "Meat & Seafood",
+    "name": "Goong Ma-Kham",
+    "description": "Fried prawn with tamarind sauce",
+    "price": 650,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/goong-ma-kham.png",
+    "symbols": [
+      "seafood"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-29",
+    "category": "Meat & Seafood",
+    "name": "Gai Phad Med Ma Muang",
+    "description": "Stir-fried chicken with cashew nuts, dried chili and oyster sauce",
+    "price": 280,
+    "meal": true,
+    "options": [],
+    "image": "assets/food/gai-phad-med-ma-muang.png",
+    "symbols": [
+      "chicken",
+      "nuts",
+      "spicy"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-30",
+    "category": "Meat & Seafood",
+    "name": "Pad Krapow",
+    "description": "Thai-style fried rice with chili, basil and crispy fried egg",
+    "price": 250,
+    "meal": true,
+    "options": [
+      [
+        "Chicken",
+        250
+      ],
+      [
+        "Pork",
+        250
+      ],
+      [
+        "Beef",
+        280
+      ],
+      [
+        "Prawn",
+        300
+      ]
+    ],
+    "image": "assets/food/pad-krapow.png",
+    "symbols": [],
+    "optionSymbols": {
+      "Prawn": [
+        "seafood",
+        "eggs",
+        "spicy"
+      ],
+      "Beef": [
+        "beef",
+        "eggs",
+        "spicy"
+      ],
+      "Pork": [
+        "pork",
+        "eggs",
+        "spicy"
+      ],
+      "Chicken": [
+        "chicken",
+        "eggs",
+        "spicy"
+      ]
+    },
+    "imageLabel": ""
+  },
+  {
+    "id": "dish-31",
+    "category": "Meat & Seafood",
+    "name": "Nuea Nam Man Hoi",
+    "description": "Thai-style wok-fried beef in savory oyster sauce",
+    "price": 300,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/nuea-nam-man-hoi.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-32",
+    "category": "Meat & Seafood",
+    "name": "Si Khrong Moo Krathiam",
+    "description": "Crispy pork ribs glazed with aromatic garlic sauce",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/si-khrong-moo-krathiam.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-33",
+    "category": "Southern Thai",
+    "name": "Phuket Tien",
+    "description": "Golden pork sausage roll, Phuket style, with homemade dipping sauce and cucumber relish",
+    "price": 250,
+    "meal": false,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-34",
+    "category": "Southern Thai",
+    "name": "Mee Sapam",
+    "description": "Traditional Phuket-style Hokkien noodles with seafood",
+    "price": 280,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/mee-sapam.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-35",
+    "category": "Southern Thai",
+    "name": "Moo Hong",
+    "description": "Phuket-style braised pork belly in soy sauce and spices",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/moo-hong.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-36",
+    "category": "Southern Thai",
+    "name": "Moo Tom Bai Cha Muang",
+    "description": "Southern Thai pork stew with Chamuang leaves",
+    "price": 300,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/moo-tom-bai-cha-muang.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-37",
+    "category": "Southern Thai",
+    "name": "Gaeng Poo Nim Bai Cha Plu",
+    "description": "Southern Thai yellow curry with soft-shell crab and betel leaves",
+    "price": 400,
+    "meal": false,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-38",
+    "category": "Chef Recommended",
+    "name": "Seafood Platter",
+    "description": "Grilled Andaman seafood: local rock lobster, seabass fillet, squid, sea prawns and mussels",
+    "price": 999,
+    "meal": false,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-39",
+    "category": "Chef Recommended",
+    "name": "Somtam Feast Set",
+    "description": "Spicy somtam, juicy grilled chicken and sticky rice",
+    "price": 450,
+    "meal": false,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-40",
+    "category": "Chef Recommended",
+    "name": "Pad Pak Miang",
+    "description": "Fresh Miang leaves wok-fried with prawns and egg",
+    "price": 300,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/pad-pak-miang.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-41",
+    "category": "Chef Recommended",
+    "name": "Gaeng Som Pla Kapong",
+    "description": "Southern Thai sour curry with seabass and mixed vegetables",
+    "price": 400,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/gaeng-som-pla-kapong.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-42",
+    "category": "Chef Recommended",
+    "name": "Khao Soi",
+    "description": "Northern Thai curry noodles with braised chicken thigh and condiments",
+    "price": 350,
+    "meal": false,
+    "options": [],
+    "image": "assets/food/khao-soi.png",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-43",
+    "category": "Desserts",
+    "name": "Khao Niaow Ma Muang",
+    "description": "Mango sticky rice with coconut cream and sesame seeds",
+    "price": 200,
+    "meal": true,
+    "options": [],
+    "image": "assets/food/mango-sticky-rice.png",
+    "symbols": [
+      "nuts",
+      "sesame"
+    ],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-44",
+    "category": "Desserts",
+    "name": "Tropical Fruit Plate",
+    "description": "Chef’s selection of seasonal fruits",
+    "price": 200,
+    "meal": true,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-45",
+    "category": "Desserts",
+    "name": "Lod Chong",
+    "description": "Thai pandan rice flour noodles in sweet coconut milk",
+    "price": 200,
+    "meal": false,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-46",
+    "category": "Desserts",
+    "name": "Tub Tim Grob with Coconut Ice Cream",
+    "description": "Ruby red water chestnuts in pandan syrup with coconut ice cream and coconut milk",
+    "price": 220,
+    "meal": false,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  },
+  {
+    "id": "dish-47",
+    "category": "Desserts",
+    "name": "2 Scoops of Ice Cream Song Krueng",
+    "description": "Coconut ice cream with a selection of traditional Thai toppings",
+    "price": 300,
+    "meal": false,
+    "options": [],
+    "image": "",
+    "symbols": [],
+    "optionSymbols": {}
+  }
+]

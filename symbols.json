@@ -1,0 +1,15 @@
+{
+  "vegan": "Vegan",
+  "vegetarian": "Vegetarian",
+  "gluten-free": "Gluten Free",
+  "eggs": "Contains Eggs",
+  "seafood": "Contains Seafood",
+  "nuts": "Contains Nuts",
+  "spicy": "Spicy level",
+  "dairy": "Dairy",
+  "chicken": "Contains Chicken",
+  "beef": "Contains Beef",
+  "pork": "Contains Pork",
+  "alcohol": "Contains Alcohol",
+  "sesame": "Contains Sesame Seeds"
+}
