@@ -41,3 +41,7 @@ h2{font-family:TasteMenu,Arial,sans-serif;font-weight:400;font-size:30px}.sectio
  .grid .card-bottom{margin-top:0}
  .grid .view{align-self:start}
 }
+
+/* Use native glyphs for prices and bold headings on Safari. */
+.price,.price small,.card h3,.eyebrow,.menu-note strong,.option strong{font-family:Arial,Helvetica,sans-serif}
+.price{font-variant-numeric:tabular-nums;white-space:nowrap;letter-spacing:normal}
